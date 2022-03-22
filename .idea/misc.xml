@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/drawable-anydpi/ic_cars_ads.xml" value="0.11388888888888889" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/drawable-anydpi/ic_dm_ads.xml" value="0.11388888888888889" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/drawable-anydpi/ic_my_ads.xml" value="0.11388888888888889" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/drawable-anydpi/ic_pc_ads.xml" value="0.11388888888888889" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/drawable-anydpi/ic_save.xml" value="0.10277777777777777" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/drawable-anydpi/ic_sign_in.xml" value="0.11388888888888889" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/drawable-anydpi/ic_sign_out.xml" value="0.11388888888888889" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/drawable-anydpi/ic_sign_up.xml" value="0.11388888888888889" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/drawable-anydpi/ic_smartphone_ads.xml" value="0.11388888888888889" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/layout/edit_layout.xml" value="0.2586050724637681" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/layout/item_ads.xml" value="0.27447916666666666" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/layout/main_content.xml" value="0.27447916666666666" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/layout/nav_header.xml" value="0.27447916666666666" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/layout/sign_up_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/androidPJ/Doska/app/src/main/res/menu/main_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/androidPJ/Doska1/app/src/main/res/layout/activity_main.xml" value="0.23867753623188406" />
+        <entry key="..\:/androidPJ/Doska1/app/src/main/res/layout/edit_layout.xml" value="0.23867753623188406" />
+        <entry key="..\:/androidPJ/Doska1/app/src/main/res/layout/main_content.xml" value="0.23867753623188406" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

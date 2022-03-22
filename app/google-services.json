@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296635487257",
+    "project_id": "tabladeanuncios-219ad",
+    "storage_bucket": "tabladeanuncios-219ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296635487257:android:9fbd930022e81a81028688",
+        "android_client_info": {
+          "package_name": "com.nom_low.doska"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296635487257-oteqfb3pl2n8fgik710ulk0avuf7jd65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbigpzGwu8mN4L9if0pz9KyUvCCaEYmYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296635487257-oteqfb3pl2n8fgik710ulk0avuf7jd65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
